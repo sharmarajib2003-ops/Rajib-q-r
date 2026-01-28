@@ -1,2 +1,1 @@
-# Rajib-q-r
-qr code for mike
+न्मस्कार यहाँलाई स्वागत छ
